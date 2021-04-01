@@ -1,0 +1,18 @@
+ignition-fortress (1.0.0-1~buster) buster; urgency=medium
+
+  * ignition-fortress 1.0.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 31 Mar 2021 18:34:40 -0700
+
+ignition-fortress (1.0.0~pre1-1~buster) buster; urgency=medium
+
+  * ignition-fortress 1.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 26 Mar 2021 16:30:58 -0700
+
+ignition-fortress (0.999.999-1~buster) buster; urgency=medium
+
+  * placeholder
+
+ -- Place Holder <placeholder@openrobotics.org>  Wed, 23 Sep 2020 16:44:44 -0700
+
