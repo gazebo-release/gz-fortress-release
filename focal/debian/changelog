@@ -1,3 +1,27 @@
+ignition-fortress (1.0.0~pre1-4~focal) focal; urgency=medium
+
+  * ignition-fortress 1.0.0~pre1-4 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 22 Sep 2021 17:45:59 -0700
+
+ignition-fortress (1.0.0~pre1-3~focal) focal; urgency=medium
+
+  * ignition-fortress 1.0.0~pre1-3 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 22 Sep 2021 17:40:34 -0700
+
+ignition-fortress (1.0.0~pre1-2~focal) focal; urgency=medium
+
+  * ignition-fortress 1.0.0~pre1-2 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 22 Sep 2021 17:35:11 -0700
+
+ignition-fortress (1.0.0~pre1-1~focal) focal; urgency=medium
+
+  * ignition-fortress 1.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 22 Sep 2021 17:10:46 -0700
+
 ignition-fortress (0.999.999-1~focal) focal; urgency=medium
 
   * Placeholder
