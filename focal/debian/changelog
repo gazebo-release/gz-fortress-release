@@ -1,3 +1,9 @@
+ignition-fortress (1.0.0-1~focal) focal; urgency=medium
+
+  * ignition-fortress 1.0.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 01 Oct 2021 15:10:49 -0700
+
 ignition-fortress (1.0.0~pre1-5~focal) focal; urgency=medium
 
   * ignition-fortress 1.0.0~pre1-5 release
