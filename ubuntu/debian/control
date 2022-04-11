@@ -1,5 +1,4 @@
 Source: ignition-fortress
-Standards-Version: 3.9.5
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
 Priority: optional
@@ -22,8 +21,9 @@ Build-Depends: debhelper (>= 11),
                libignition-utils1-cli-dev (>= 1.1.0),
                libignition-utils1-dev (>= 1.1.0),
                libsdformat12-dev (>= 12.1.0)
-Vcs-Browser: https://github.com/ignition-release/ignition-fortress-release
-Vcs-Git: https://github.com/ignition-release/ignition-fortress-release
+Vcs-Browser: https://github.com/ignition-release/ign-fortress-release
+Vcs-Git: https://github.com/ignition-release/ign-fortress-release
+Standards-Version: 4.5.1
 Homepage: http://ignitionrobotics.org/
 
 Package: ignition-fortress
