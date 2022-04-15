@@ -32,7 +32,7 @@ Section: libdevel
 Depends: libignition-cmake2-dev (>= 2.12.1),
          libignition-common4-dev (>= 4.5.0),
          libignition-fuel-tools7-dev,
-         libignition-gazebo6-dev (>= 6.0.0),
+         libignition-gazebo6-dev (>= 6.9.0),
          libignition-gui6-dev (>= 6.4.0),
          libignition-launch5-dev (>= 5.1.0),
          libignition-math6-dev (>= 6.10.0),
