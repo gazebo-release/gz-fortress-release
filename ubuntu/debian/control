@@ -47,6 +47,8 @@ Depends: libignition-cmake2-dev (>= 2.12.1),
          libignition-utils1-cli-dev (>= 1.4.0),
          libignition-utils1-dev (>= 1.4.0),
          libsdformat12-dev (>= 12.4.0),
+         python3-ignition-math6,
+         python3-ignition-gazebo6,
          ${misc:Depends}
 Multi-Arch: foreign
 Description: Collection of ignition robotics packages - Fortress
