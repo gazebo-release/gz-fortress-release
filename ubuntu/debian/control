@@ -21,10 +21,10 @@ Build-Depends: debhelper (>= 11),
                libignition-utils1-cli-dev (>= 1.4.0),
                libignition-utils1-dev (>= 1.4.0),
                libsdformat12-dev (>= 12.4.0)
-Vcs-Browser: https://github.com/ignition-release/ign-fortress-release
-Vcs-Git: https://github.com/ignition-release/ign-fortress-release
+Vcs-Browser: https://github.com/gazebo-release/gz-fortress-release
+Vcs-Git: https://github.com/gazebo-release/gz-fortress-release
 Standards-Version: 4.5.1
-Homepage: http://ignitionrobotics.org/
+Homepage: http://gazebosim.org/
 
 Package: ignition-fortress
 Architecture: any
@@ -51,6 +51,6 @@ Depends: libignition-cmake2-dev (>= 2.12.1),
          python3-ignition-gazebo6,
          ${misc:Depends}
 Multi-Arch: foreign
-Description: Collection of ignition robotics packages - Fortress
+Description: Collection of Gazebo packages - Fortress
   This is a metapackage used for triggering the whole collection of ignition
   packages corresponding to the Fortress collection
